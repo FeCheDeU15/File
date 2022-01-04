@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-This is file. This is Git diff. This is football club.
-=======
--This is new file?
--Yes!
->>>>>>> ee627db52d3b24c899f0ac0c11367acb77cfcab6
